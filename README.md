@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Pereira</h1>
-<h3 align="center">A developer passionate about sports and technology, definitely focusing on systems development, an old passion acquired in high school, but which was left aside by focusing on my athlete life for several years.</h3>
+<h3 align="center">A developer passionate about sports and technology, definitely focusing on systems development, an old passion acquired in high school, but I've set aside my Dev side to focusing on my sporty side, for several years.</h3>
 - 📫 How to reach me tiagohcp@gmail.com
 <br>
 
